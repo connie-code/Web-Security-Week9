@@ -28,7 +28,7 @@ Time spent: **14** hours spent in total
     <img src='sensors.gif' title='Sensors' width='' alt='' />
   
 ## Any unresolved questions raised by the data collected 
-  N/A 
+  > N/A 
 
 ## Resources
 
