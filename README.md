@@ -18,10 +18,14 @@ Time spent: **14** hours spent in total
 1. Google Cloud and Honeypot GIF setup
     - Google cloud is used to create three honeypot VM ( Ubuntu trusty). MHN server was intalled on mhn-admin VM while other three are being used as honeypot for attacks. 
     - GIF walkthrough: 
+      <img src='gcloud platform.gif' title='Gcloud Platform' width='' alt='' />
 2. GIF walkthroughs of demonstration on the attacks
     - Attack Stats: 
-    - Attacks Report: 
-3. Sensors: 
+      <img src='attacks stats.gif' title='Attacks Stats' width='' alt='' />
+    - Attacks Report:
+      <img src='attacks report.gif' title='Attacks Report' width='' alt='' /> 
+3. Sensors deployed: 
+    <img src='sensors.gif' title='Sensors' width='' alt='' />
   
   
 
