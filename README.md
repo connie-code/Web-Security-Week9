@@ -6,10 +6,24 @@ Time spent: **14** hours spent in total
 
 > Objective: Learn about Network Security by attacking and being attacked at vulnarable networked resources. Multiple Honey Pot VM instances were created to demonstrate it. 
 
+## Which HoneyPot(s) you deployed 
+  - mhn-honeypot-1
+  - mhn-honeypot-2
+  - mhn-honeypot-3
 
-## Notes
+## Any issues you encountered
+  > I had issues setting up the VM and getting the external IP address to load. It took a couple tries (redoing from start) to get it to work. 
 
-Describe any challenges encountered while doing the work
+## A summary of the data collected: number of attacks, number of malware samples, etc.
+1. Google Cloud and Honeypot GIF setup
+    - Google cloud is used to create three honeypot VM ( Ubuntu trusty). MHN server was intalled on mhn-admin VM while other three are being used as honeypot for attacks. 
+    - GIF walkthrough: 
+2. GIF walkthroughs of demonstration on the attacks
+    - Attack Stats: 
+    - Attacks Report: 
+3. Sensors: 
+  
+  
 
 ## Resources
 
