@@ -27,7 +27,8 @@ Time spent: **14** hours spent in total
 3. Sensors deployed: 
     <img src='sensors.gif' title='Sensors' width='' alt='' />
   
-  
+## Any unresolved questions raised by the data collected 
+  N/A 
 
 ## Resources
 
